@@ -13,3 +13,4 @@ serde = { version = "1", features = ["derive"] }
 tokio = { version = "1", features = ["full"] }
 sqlx = { version = "0.7", features = ["postgres", "runtime-tokio"] }
 jsonwebtoken = "9"
+dotenvy = "0.15"
