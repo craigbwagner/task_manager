@@ -1,9 +1,9 @@
 [workspace]
 members = [
-    "user-service",
-    "task-service",
-    "notification-service",
-    "api-gateway"
+    "user_service",
+    "task_service",
+    "notification_service",
+    "api_gateway"
 ]
 resolver = "2" # Ensures proper dependency resolution
 
