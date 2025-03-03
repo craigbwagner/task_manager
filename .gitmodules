@@ -1,0 +1,12 @@
+[submodule "api_gateway"]
+	path = api_gateway
+	url = git@github.com:craigbwagner/api_gateway.git
+[submodule "notification_service"]
+	path = notification_service
+	url = git@github.com:craigbwagner/notification_service.git
+[submodule "task_service"]
+	path = task_service
+	url = git@github.com:craigbwagner/task_service.git
+[submodule "user_service"]
+	path = user_service
+	url = git@github.com:craigbwagner/user_service.git
