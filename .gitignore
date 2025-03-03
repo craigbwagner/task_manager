@@ -1,0 +1,14 @@
+# Rust
+target/
+Cargo.lock
+
+# Logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# Docker
+docker-compose.override.yml
